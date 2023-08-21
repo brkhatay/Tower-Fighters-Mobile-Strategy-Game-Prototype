@@ -1,0 +1,2 @@
+
+public delegate void OnCollectibleTakenEvent();
