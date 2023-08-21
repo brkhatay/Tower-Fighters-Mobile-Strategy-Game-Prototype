@@ -40,9 +40,9 @@ If any player leaves or closes the game, the other player returns to the main me
 ### Game Play
 
 <p align="center">
-  <img src="https://github.com/brkhatay/Tower-Fighters-Mobile-Strategy-Game-Prototype/blob/ReadSourse/GamePlay.gif" alt="" width="600" height="600">
+  <img src="https://github.com/brkhatay/Tower-Fighters-Mobile-Strategy-Game-Prototype/blob/ReadSourse/GamePlay.gif" alt="" width="600" height="500">
 </p>
 
-#End
-brkhatay@gmail.com
+# End
+### brkhatay@gmail.com
 
