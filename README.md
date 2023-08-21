@@ -6,11 +6,11 @@ This project was designed 2-player multiplayer game. With using Photon Network t
   <img src="https://github.com/brkhatay/Tower-Fighters-Mobile-Strategy-Game-Prototype/blob/ReadSourse/LOGO.png" alt="" width="600" height="300">
 </p>
 
-## Input System
+### Input System
 
 Unity New Input System was used in this project and mobile devices were primarily designed.
   
-<p style="font-size: 18;">A* Path Finding/p>
+### A* Path Finding
 In this game, players control their characters with the A* (start) pathfinding algorithm. Grid is created according to the Renderer Mesh Bound of the Plane object in the ground part of the game. First, the Playable Character is selected, and then the desired point is selected, the path is calculated by going around the obstacles.
 
 <p align="center">
