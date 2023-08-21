@@ -1,5 +1,7 @@
 # Tower-Fighters-Mobile-Strategy-Game-Prototype
 
 
-![](https://github.com/brkhatay/Tower-Fighters-Mobile-Strategy-Game-Prototype/blob/ReadSourse/LOGO.png) {width=300px height=200px}
+![](https://github.com/brkhatay/Tower-Fighters-Mobile-Strategy-Game-Prototype/blob/ReadSourse/LOGO.png) 
 
+
+<img src="https://github.com/brkhatay/Tower-Fighters-Mobile-Strategy-Game-Prototype/blob/ReadSourse/LOGO.png" alt="Resim Açıklaması" width="300" height="200">
