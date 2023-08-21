@@ -1,6 +1,6 @@
 # Tower-Fighters-Mobile-Strategy-Game-Prototype
 
-This project was designed 2-player multiplayer game. With using Photon Network tools.
+This project was designed 2-player multiplayer game. With using Photon Network tools. Using Unity 2021.3.22f1.
 
 <p align="center">
   <img src="https://github.com/brkhatay/Tower-Fighters-Mobile-Strategy-Game-Prototype/blob/ReadSourse/LOGO.png" alt="" width="600" height="300">
@@ -40,8 +40,9 @@ If any player leaves or closes the game, the other player returns to the main me
 ### Game Play
 
 <p align="center">
-  <img src="https://github.com/brkhatay/Tower-Fighters-Mobile-Strategy-Game-Prototype/blob/ReadSourse/GamePlay.gif" alt="" width="600" height="300">
+  <img src="https://github.com/brkhatay/Tower-Fighters-Mobile-Strategy-Game-Prototype/blob/ReadSourse/GamePlay.gif" alt="" width="600" height="600">
 </p>
 
-# 
+#End
+brkhatay@gmail.com
 
