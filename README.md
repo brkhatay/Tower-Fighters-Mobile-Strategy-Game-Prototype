@@ -6,7 +6,7 @@ This project was designed 2-player multiplayer game. With using Photon Network t
   <img src="https://github.com/brkhatay/Tower-Fighters-Mobile-Strategy-Game-Prototype/blob/ReadSourse/LOGO.png" alt="" width="600" height="300">
 </p>
 
-# Input System {style="font-size: 18px;"}
+## Input System
 
 Unity New Input System was used in this project and mobile devices were primarily designed.
   
