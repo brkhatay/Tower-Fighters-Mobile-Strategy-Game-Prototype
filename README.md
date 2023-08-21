@@ -2,4 +2,4 @@
 
 ![alt text](https://github.com/[brkhatay]/[Tower-Fighters-Mobile-Strategy-Game-Prototype]/blob/[ReadSourse]/logo.png?raw=true](https://drive.google.com/file/d/1RiAXbYOVVrUC78297Lk8PLRvU82KBdfG/view?usp=drive_link)https://drive.google.com/file/d/1RiAXbYOVVrUC78297Lk8PLRvU82KBdfG/view?usp=drive_link](https://imageupload.io/Y963IysHg9iu1jY)https://imageupload.io/Y963IysHg9iu1jY)
 
-![](LOGO.png)
+![](https://github.com/brkhatay/Tower-Fighters-Mobile-Strategy-Game-Prototype/blob/ReadSourse/LOGO.png)
