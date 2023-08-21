@@ -17,27 +17,27 @@ In this game, players control their characters with the A* (start) pathfinding a
   <img src="https://github.com/brkhatay/Tower-Fighters-Mobile-Strategy-Game-Prototype/blob/ReadSourse/A_Star.gif" alt="" width="600" height="300">
 </p>
 
-<p style="font-size: 18;">Fight System/p>
+### Fight System
 Every time the players collect 3 collectibles, the ball in front of the castle they are defending is fired and the counter tower is damaged. The appearance of the tower changes with each damage. The tower that is hit 6 times in total is destroyed. The player wins the game and 1 experience point.
 
 <p align="center">
   <img src="https://github.com/brkhatay/Tower-Fighters-Mobile-Strategy-Game-Prototype/blob/ReadSourse/Fight.gif" alt="" width="600" height="300">
 </p>
 
-<p style="font-size: 18;">Collectibles/p>
+### Collectibles
 A collectible is created by randomly selecting one of the unblocked points on the created Grid.
   
-<p style="font-size: 18;">Matchmaking/p>
+### Matchmaking
 Players are primarily matched with players close to their own level. A random player is assigned that you are not a player close to your own level.
 
-<p style="font-size: 18;">Left Game/p>
+### Left Game
 If any player leaves or closes the game, the other player returns to the main menu.
 
 <p align="center">
   <img src="https://github.com/brkhatay/Tower-Fighters-Mobile-Strategy-Game-Prototype/blob/ReadSourse/LeftGame.gif" alt="" width="600" height="300">
 </p>
 
-<p style="font-size: 18;">Game Play/p>
+### Game Play
 
 <p align="center">
   <img src="https://github.com/brkhatay/Tower-Fighters-Mobile-Strategy-Game-Prototype/blob/ReadSourse/GamePlay.gif
